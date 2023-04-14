@@ -13,5 +13,9 @@
         "psr-4": {
             "AdaPay\\": "src/"
         }
-    }
+    },
+	"require": {
+		"php": ">=5.6",
+        "another-vendor/package": "1.*"
+	}
 }
